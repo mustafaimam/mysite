@@ -37,17 +37,16 @@
 							<ul class="contact">
 								<li class="fa-home">
 									Mustafa Abdul Razzaq<br />
-									Dorm 4 Rm#<br />
+									Dorm 4 Rm#212<br />
 									c/o Algoma University<br />
 									1520 Queen St. East<br />
 									Sault Ste. Marie, ON P6A 2G4<br />
 									Canada
 								</li>
-								<li class="fa-phone">(705) 255-3268</li>
 								<li class="fa-envelope"><a href="mailto:mustafa.abdul.razzaq@outlook.com">mustafa.abdul.razzaq@outlook.com</a></li>
-								<li class="fa-twitter"><a href="https://twitter.com/something">twitter.com/something</a></li>
-								<li class="fa-facebook"><a href="https://facebook.com/something">facebook.com/something</a></li>
-								<li class="fa-instagram"><a href="https://instagram.com/something">instagram.com/something</a></li>
+								<li class="fa-twitter"><a href="https://twitter.com/Mustafa_1mam">twitter.com/Mustafa_1mam</a></li>
+								<li class="fa-facebook"><a href="https://www.facebook.com/mustafa.abdulrazaq.3">facebook.com/mustafa.abdulrazaq.3</a></li>
+								<li class="fa-instagram"><a href="https://www.instagram.com/mustafa_1mam/?hl=en">instagram.com/mustafa_1mam</a></li>
 							</ul>
 							<ul class="copyright">
 								<li>&copy; 2016 Mustafa Abdul Razzaq</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
