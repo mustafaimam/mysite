@@ -16,7 +16,7 @@
 							<a href="/about" class="image"><img src="/img/pic01.jpg" alt="" /></a>
 							<div class="content">
 								<h2 class="major">About Me</h2>
-								<p>Example text.</p>
+								<p>Computer Science major at Algoma University.</p>
 								<a href="/about" class="special">Learn more</a>
 							</div>
 						</div>
