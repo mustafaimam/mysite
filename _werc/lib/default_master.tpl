@@ -48,6 +48,7 @@
 								<li class="fa-facebook"><a href="https://www.facebook.com/mustafa.abdulrazaq.3">facebook.com/mustafa.abdulrazaq.3</a></li>
 								<li class="fa-instagram"><a href="https://www.instagram.com/mustafa_1mam/?hl=en">instagram.com/mustafa_1mam</a></li>
 								<li class="fa-linkedin"><a href="https://www.linkedin.com/in/mustafa-abdul-razaq-106725136">linkedin.com/in/mustafa-abdul-razaq-106725136</a></li>
+								<li class="fa-github"><a href="https://github.com/mustafaimam">github.com/mustafaimam</a></li>
 							</ul>
 							<ul class="copyright">
 								<li>&copy; 2016-2017 Mustafa Abdul Razzaq</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
