@@ -16,7 +16,12 @@
 							<a href="/about" class="image"><img src="/img/pic01.jpg" alt="" /></a>
 							<div class="content">
 								<h2 class="major">About Me</h2>
-								<p>Computer Science major at Algoma University.</p>
+								<p>
+									I am currently a Computer Science Student at Algoma University.
+									I am from United Arab Emirates and I am trying to program everyday 
+									and improve my skills in Java and Python. I love skateboarding and 
+									I'm into photography as well as videography. 
+								</p>
 								<a href="/about" class="special">Learn more</a>
 							</div>
 						</div>
