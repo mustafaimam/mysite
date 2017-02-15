@@ -44,8 +44,8 @@
 						<div class="inner">
 							<a href="#" class="image"><img src="/img/pic03.jpg" alt="" /></a>
 							<div class="content">
-								<h2 class="major">Something Else</h2>
-								<p>Example text.</p>
+								<h2 class="major">Other Skills</h2>
+								<p>My other set of skills would be set over here(update later).</p>
 								<a href="#" class="special">Learn more</a>
 							</div>
 						</div>
