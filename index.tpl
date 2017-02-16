@@ -15,7 +15,7 @@
 						<div class="inner">
 							<a href="/about" class="image"><img src="/img/pic01.jpg" alt="" /></a>
 							<div class="content">
-								<h2 class="major">About Me</h2>
+								<h2 class="TWENTY ONE PILOTS IS PERFORMING RIGHT BESIDE YOU ALEXS IN SUDBURY">About Me</h2>
 								<p>
 									I am currently a Computer Science Student at Algoma University.
 									I am from United Arab Emirates(UAE) and I am trying to program everyday 
