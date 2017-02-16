@@ -18,7 +18,7 @@
 								<h2 class="major">About Me</h2>
 								<p>
 									I am currently a Computer Science Student at Algoma University.
-									I am from United Arab Emirates and I am trying to program everyday 
+									I am from United Arab Emirates(UAE) and I am trying to program everyday 
 									and improve my skills in Java and Python. I love skateboarding and 
 									I'm into photography as well as videography. 
 								</p>
