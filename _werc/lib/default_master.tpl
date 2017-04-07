@@ -15,7 +15,6 @@
 							<h2>Menu</h2>
 							<ul class="links">
 								<li><a href="/">Home</a></li>
-								<li><a href="/about">About Me</a></li>
 								<li><a href="/projects/">Projects</a></li>
 								<li><a href="/resume.pdf">Resume</a></li>
 							</ul>
@@ -47,7 +46,7 @@
 								<li class="fa-twitter"><a href="https://twitter.com/Mustafa_1mam">twitter.com/Mustafa_1mam</a></li>
 								<li class="fa-facebook"><a href="https://www.facebook.com/mustafa.abdulrazaq.3">facebook.com/mustafa.abdulrazaq.3</a></li>
 								<li class="fa-instagram"><a href="https://www.instagram.com/mustafa_1mam/?hl=en">instagram.com/mustafa_1mam</a></li>
-								<li class="fa-linkedin"><a href="https://www.linkedin.com/in/mustafa-abdul-razaq-106725136">linkedin.com/in/mustafa-abdul-razaq-106725136</a></li>
+								<li class="fa-linkedin"><a href="https://www.linkedin.com/in/mustafaabdulrazaq">linkedin.com/in/mustafaabdulrazaq</a></li>
 								<li class="fa-github"><a href="https://github.com/mustafaimam">github.com/mustafaimam</a></li>
 							</ul>
 							<ul class="copyright">
