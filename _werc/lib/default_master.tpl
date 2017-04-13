@@ -36,7 +36,6 @@
 							<ul class="contact">
 								<li class="fa-home">
 									Mustafa Abdul Razzaq<br />
-									Dorm 4 Rm#212<br />
 									c/o Algoma University<br />
 									1520 Queen St. East<br />
 									Sault Ste. Marie, ON P6A 2G4<br />
